@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0226-invert-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

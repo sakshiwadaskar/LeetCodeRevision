@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0021-merge-two-sorted-lists) |
 ## String Matching
 |  |
 | ------- |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

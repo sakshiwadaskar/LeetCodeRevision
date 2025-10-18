@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/2121-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0572-subtree-of-another-tree) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0226-invert-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/2121-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

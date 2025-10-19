@@ -6,6 +6,7 @@ class Solution:
 
         minHeap = [(0, k)]
         visit = set()
+        distance= [float('inf')] * (n + 1)
         t = 0
         while minHeap:
             w1, n1 = heapq.heappop(minHeap)
@@ -16,6 +17,6 @@ class Solution:
 
             for n2, w2 in edges[n1]:
                 newDist = w1 + w2
-                if n2 not in visit:
+                if newDist < distance[n2]:
                     heapq.heappush(minHeap, (w1 + w2, n2))
         return t if len(visit) == n else -1

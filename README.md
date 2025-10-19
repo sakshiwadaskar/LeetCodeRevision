@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->

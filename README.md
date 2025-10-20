@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/2121-find-if-path-exists-in-graph) |
 ## Dynamic Programming
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0033-search-in-rotated-sorted-array) |
+| [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
 ## Tree
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -132,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -173,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0021-merge-two-sorted-lists) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Graph
 |  |
 | ------- |
@@ -211,4 +213,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0013-roman-to-integer) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->

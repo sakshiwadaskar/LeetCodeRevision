@@ -7,9 +7,9 @@ class Solution:
         rob1, rob2 = 0, 0
 
         for n in nums:
-            newRob = max(n + rob1, rob2)
-            rob1 = rob2
-            rob2 = newRob
+            newRob = max(n + rob2, rob1)
+            rob2 = rob1
+            rob1 = newRob
 
-        return rob2
+        return rob1
         

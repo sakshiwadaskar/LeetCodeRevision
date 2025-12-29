@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0070-climbing-stairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

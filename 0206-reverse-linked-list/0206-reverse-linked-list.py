@@ -5,8 +5,8 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        prev, curr = None, head
-
+        curr = head
+        prev = None
         while curr:
             temp = curr.next
             curr.next = prev
@@ -14,4 +14,5 @@ class Solution:
             curr = temp
 
         return prev
+            
         

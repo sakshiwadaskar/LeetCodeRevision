@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0695-max-area-of-island) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0143-reorder-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

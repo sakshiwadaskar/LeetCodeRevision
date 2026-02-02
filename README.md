@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0213-house-robber-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0155-min-stack) |
 ## Bit Manipulation
 |  |

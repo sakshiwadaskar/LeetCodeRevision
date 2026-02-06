@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0424-longest-repeating-character-replacement) |
 | [0869-similar-string-groups](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0869-similar-string-groups) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -291,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |

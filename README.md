@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [0869-similar-string-groups](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0869-similar-string-groups) |
+| [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
+| [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -317,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

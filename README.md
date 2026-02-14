@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0322-coin-change) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -329,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

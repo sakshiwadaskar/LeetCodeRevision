@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [0869-similar-string-groups](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0869-similar-string-groups) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [0869-similar-string-groups](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0869-similar-string-groups) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
 ## Math
 |  |
@@ -342,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0040-combination-sum-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

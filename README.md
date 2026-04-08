@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0049-group-anagrams) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0046-permutations) |
 ## Graph Theory

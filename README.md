@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0647-palindromic-substrings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0322-coin-change) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0131-palindrome-partitioning) |
 ## Graph Theory
 |  |
 | ------- |

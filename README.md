@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0011-container-with-most-water) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## String
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0713-subarray-product-less-than-k) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0713-subarray-product-less-than-k) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0981-time-based-key-value-store) |
 | [1753-path-with-minimum-effort](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1753-path-with-minimum-effort) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Tree
 |  |
 | ------- |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
 | [0869-similar-string-groups](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0869-similar-string-groups) |
+| [0904-fruit-into-baskets](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0424-longest-repeating-character-replacement) |
 | [0869-similar-string-groups](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0869-similar-string-groups) |
+| [0904-fruit-into-baskets](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0981-time-based-key-value-store) |
 ## Union Find
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0904-fruit-into-baskets) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search
 |  |

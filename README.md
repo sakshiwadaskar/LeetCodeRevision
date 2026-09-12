@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0794-swim-in-rising-water) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0973-k-closest-points-to-origin) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0621-task-scheduler) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## String
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0621-task-scheduler) |
 | [0869-similar-string-groups](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0869-similar-string-groups) |
 | [0904-fruit-into-baskets](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0981-time-based-key-value-store) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0744-network-delay-time) |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |

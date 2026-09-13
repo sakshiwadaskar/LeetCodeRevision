@@ -1,27 +1,26 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        res = []
-        candidates.sort() # Requirement for the skip logic
+        candidates.sort()
+        res, path = [], []
 
-        def backtrack(start, path, total):
-            if total == target:
-                res.append(path[:])
-                return
-            
+        def dfs(start, total, path):
+
+            if target == total:
+                res.append(path.copy())
+
             for i in range(start, len(candidates)):
-                # Rule 2: Skip duplicates at the same recursive level
-                if i > start and candidates[i] == candidates[i-1]:
+
+                if candidates[i] + total > target:
+                    break
+
+                # Skip duplicate numbers at the same decision level
+                if i > start and candidates[i] == candidates[i - 1]:
                     continue
                 
-                # Rule 1: We use total + candidates[i] 
-                # Optimization: if it's too big, stop (because it's sorted)
-                if total + candidates[i] > target:
-                    break
-                
                 path.append(candidates[i])
-                # Note: we pass 'i + 1' so we don't reuse the SAME element
-                backtrack(i + 1, path, total + candidates[i])
+                dfs(i + 1, candidates[i] + total, path)
                 path.pop()
 
-        backtrack(0, [], 0)
+        dfs(0, 0, path)
         return res
+        

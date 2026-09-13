@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0268-missing-number) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/sakshiwadaskar/LeetCodeRevision/tree/master/0131-palindrome-partitioning) |
 ## Graph Theory
 |  |
